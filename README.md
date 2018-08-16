@@ -1,2 +1,3 @@
-# beta-console-feedback
-Please use this repository to highlight any issues or bugs you find on the platform
+# Beta Console Feedback
+
+Please use this repository for all feedback during the beta release of the console.
